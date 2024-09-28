@@ -2,13 +2,13 @@
 
 <h1 align="center"> Programa de Pesquisa de Satisfação para Cinema - Desenvolvido para Agenda #8 da Etec- Desenvolvimento de Sistemas</h1>
 
-<h3 aling = "left"> 
-  
-Atividade Online
-
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://eadtec.cps.sp.gov.br/atividades/recursos/files/Ag08Fig1.PNG.jpg" alt="cinema" width="98" height="98" /> </a>
 </p>
+
+<h3 aling = "left"> 
+  
+Atividade Online
 Um cinema possui capacidade de 40 lugares e está sempre com ocupação total. Certo dia, cada espectador respondeu a um questionário, no qual constava:
   - idade
   - opinião em relação ao filme, segundo as seguintes notas:
