@@ -6,7 +6,7 @@
   
 Atividade Online
 Um cinema possui capacidade de 40 lugares e está sempre com ocupação total. Certo dia, cada espectador respondeu a um questionário, no qual constava:
-  - idade;
+  - idade
   - opinião em relação ao filme, segundo as seguintes notas:
   -  A - Ótimo
   -  B - Bom
@@ -16,9 +16,9 @@ Um cinema possui capacidade de 40 lugares e está sempre com ocupação total. C
 
 Elabore a codificação em JAVA para que leia os dados, calcule e exiba na tela:
 -Ler as informações de 40 espectadores (idade e opinião). 
-- quantidade de respostas "ótimo";
-- a média de idade das pessoas que responderam "ruim";
-- a porcentagem de respostas "péssimo".
+- quantidade de respostas "ótimo"
+- a média de idade das pessoas que responderam "ruim"
+- a porcentagem de respostas "péssimo"
 - A média geral das notas, considerando que "A = 5", "B = 4", "C = 3", "D = 2", e "E = 1".
 </h3>
 
