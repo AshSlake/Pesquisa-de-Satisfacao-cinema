@@ -7,7 +7,7 @@
 Atividade Online
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://eadtec.cps.sp.gov.br/atividades/recursos/files/Ag08Fig1.PNG.jpg" alt="cinema" width="40" height="40" /> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://eadtec.cps.sp.gov.br/atividades/recursos/files/Ag08Fig1.PNG.jpg" alt="cinema" width="65" height="65" /> </a>
 </p>
 Um cinema possui capacidade de 40 lugares e está sempre com ocupação total. Certo dia, cada espectador respondeu a um questionário, no qual constava:
   - idade
